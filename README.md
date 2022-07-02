@@ -1,2 +1,3 @@
 # Decibelimetro-FRDM-KL25Z
-Decibelímeter using Max981
+Decibelímeter using Max9814
+
